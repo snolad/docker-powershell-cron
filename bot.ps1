@@ -1,0 +1,1 @@
+﻿Write-Host "$((Get-Date).ToString("dd/MM/yyyy HH:mm")) > Hello World ! --> executed from docker with cron job :)"
